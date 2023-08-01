@@ -232,8 +232,8 @@ When producing a message using avro format([]byte or map[string]interface{}), in
 E.g.
 ```
 myData :=  map[string]interface{}{
-"username": "John",
-"age": 30
+  "username": "John",
+  "age": 30
 }
 ```
 ```
